@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+
+!ch1/
+!ch1/*.py
+!ch1/tasks/
+!ch1/tasks/*.py
+
