@@ -2,8 +2,25 @@
 !.gitignore
 
 
-!ch1/
+!ch?/
 !ch1/*.py
 !ch1/tasks/
 !ch1/tasks/*.py
 
+!ch2/tasks_proj/
+!ch2/tasks_proj/src
+!ch2/tasks_proj/src/tasks
+!ch2/tasks_proj/src/tasks/*.py
+!ch2/tasks_proj/src/tasks.egg-info
+!ch2/tasks_proj/src/tasks.egg-info/*.txt
+!ch2/tasks_proj/src/tasks.egg-info/PKG-INFO
+!ch2/tasks_proj/build/
+!ch2/tasks_proj/build/bdist.win-amd64
+!ch2/tasks_proj/build/lib/
+!ch2/tasks_proj/build/lib/tasks/
+!ch2/tasks_proj/build/lib/tasks/*.py
+!ch2/tasks_proj/tests/
+!CHANGELOG.rst
+!LICENSE
+!MANIFEST.in
+!setup.py
