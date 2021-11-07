@@ -20,6 +20,8 @@
 !ch2/tasks_proj/build/lib/tasks/
 !ch2/tasks_proj/build/lib/tasks/*.py
 !ch2/tasks_proj/tests/
+!ch2/tasks_proj/tests/unit
+!ch2/tasks_proj/tests/unit/*.py
 !CHANGELOG.rst
 !LICENSE
 !MANIFEST.in
